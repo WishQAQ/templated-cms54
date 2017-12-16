@@ -1,0 +1,1 @@
+<a class="btn btn-default" href="[field:typelink /]">查看更多</a>
